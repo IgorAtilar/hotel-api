@@ -97,7 +97,7 @@ $ yarn dev
 $ npm run dev
 ```
 
-Após isso no seu terminal aparecerá o link para acessar o projeto que é normalmente http://localhost:3000.
+Após isso no seu terminal aparecerá o endereço para consumir a API.
 
 ## :construction_worker:Créditos
 
